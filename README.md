@@ -1,4 +1,6 @@
-## Hi there 👋
+## Charles Wehner Ortega
+Ahora mismo, estoy aprendiendo en la clase de (DAM).
+Currently, I'm learning DAM.
 
 <!--
 **CharlesWehnerOrtega/CharlesWehnerOrtega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
