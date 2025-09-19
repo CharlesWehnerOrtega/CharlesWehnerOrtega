@@ -1,5 +1,6 @@
 ## Charles Wehner Ortega
-Ahora mismo, estoy aprendiendo en la clase de (DAM).
+
+Ahora mismo, estoy aprendiendo en la clase de Desarollo de Aplicaciones Web (DAM).
 Currently, I'm learning DAM.
 
 <!--
